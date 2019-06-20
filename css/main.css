@@ -1831,7 +1831,7 @@ body.wt-login .wt-userlogedin{display: block;}
 	height: 100%;
 	content: '';
 	position: absolute;
-	background: rgba(50,50,50,0.40);
+	background: rgba(75, 191, 230,0.50);
 }
 .wt-innerbannercontent{
 	float: left;
